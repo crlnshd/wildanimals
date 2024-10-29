@@ -131,6 +131,7 @@
     flex: 1;
     max-width: 100%;
     border-radius: 2px;
+    display: inline;
 }
 
 .footer {
@@ -218,6 +219,10 @@
     }
 
     .header_search input {
+        width: 100%;
+    }
+
+    .facts-images img {
         width: 100%;
     }
 
