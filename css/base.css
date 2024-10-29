@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+:root{
+    
+    --font-family-text: "Roboto";
+    --color-grey: #023135;
+    --color-lightgrey: #637381;
+    --color-green: #007A5C;
+
+    --font-size-h1: 22px;
+    --font-size-h2: 16px;
+    --font-size-p: 24px;
+
+    --width: 1440px;
+    --height-header: 200px;
+    --height-menu: 200px;
+    --height-additional: 510px;
+    --height-footer: 240px;
+    --height-main: 750px;
+
+}
+
+
